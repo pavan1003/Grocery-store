@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1574072226 source:e:\pavan nuv\cb projects\groce\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1574072226 source:d:\pavan nuv\cb projects\groce\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
